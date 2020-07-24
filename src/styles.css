@@ -1,0 +1,8 @@
+.holder {
+    -fx-background-color: #1e1e1e;
+}
+
+.slider {
+    -fx-background-color: #1e1e1e;
+    -fx-min-height: 20px;
+}
