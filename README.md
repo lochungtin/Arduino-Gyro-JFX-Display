@@ -2,7 +2,7 @@
 Gyro sensor data visualization with JavaFX program
 
 ## Hardware
-Any serial out device. <a href="">Repo</a> for example hardware device
+Any serial out device. <a href="https://github.com/lochungtin/Arduino-Gyro">Repo</a> for example hardware device
 
 ## Functionality
 1. Reads quaterion data from serial port
