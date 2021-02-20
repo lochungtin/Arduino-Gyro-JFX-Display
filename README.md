@@ -1,5 +1,5 @@
 ## Arduino Gyrosensor JavaFX Visualisation Program
-Gyro sensor data visualisation with JavaFX program
+Gyrosensor data visualisation with JavaFX program
 
 ## Hardware
 Any serial out device. <a href="https://github.com/lochungtin/Arduino-Gyro">Repo</a> for example hardware device
