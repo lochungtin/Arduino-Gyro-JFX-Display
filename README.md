@@ -3,6 +3,7 @@ Gyrosensor data visualisation with JavaFX program
 
 ## Hardware
 Any serial out device. <a href="https://github.com/lochungtin/Arduino-Gyro">Repo</a> for example hardware device
+<br />
 Example hardware:
 - Arduino Nano
 - GY 521 Accelerometer / Gyro Sensor
